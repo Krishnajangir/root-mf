@@ -3,6 +3,7 @@
  Command to creating single spa aaplication: npm i create-single-spa and then type create-single-spa and will see many options to creating project for root, angular,vue and react.
  
  download angular-mf(https://github.com/Krishnajangir/angular-mf) and react-mf(https://github.com/Krishnajangir/react-mf) directory and start build for both.
+ 
  For angular build command: build:single-spa:angular-mf
  
  For react build command: "build:webpack
